@@ -3,8 +3,8 @@
 ## About Me
 
 🎓 I’m a 3rd year student of Informatics and Computing Engineering at the University of Porto.  
-📚 I love solving complex problems and exploring new technologies.
 🎯 I am very interested in cybersecurity and in low-level programming.  
+📚 I love solving complex problems and exploring new technologies.
 
 
 ## Projects
