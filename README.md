@@ -25,11 +25,11 @@ Here are some of my projects:
 | **[Liga Portuguesa Database](https://github.com/mariaarabelo/database)** | SQL Portuguese League Project.|
 | **[Differo Game](https://github.com/mariaarabelo/differo)** | A board game developed with Prolog. |
 
+## Contact Me
 
-## How to Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaarabelo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariaesrabelo@gmail.com)
 
-- **LinkedIn**: [Maria Rabelo](https://www.linkedin.com/in/mariaarabelo)
-- **Email**: mariaesrabelo@gmail.com
 
 Thanks for visiting my profile! 🚀
 
