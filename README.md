@@ -33,6 +33,9 @@ Here are some of my projects:
 
 Thanks for visiting my profile! 🚀
 
+[CV](./CV%20Maria%20Rabelo.pdf)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaarabelo&hide=html,css)](https://github.com/mariaarabelo)
 
 
