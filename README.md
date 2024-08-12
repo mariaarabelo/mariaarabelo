@@ -20,6 +20,7 @@ Here are some of my projects:
 | **[Water Supply Management](https://github.com/watersupply)** | Graph algorithms, focusing on flow analysis and identifying critical points. | C++ |
 | **[Schedule Management](https://github.com/mariaarabelo/AED-project)** | Optimizing class schedules to avoid conflicts and overcrowding. | C++ |
 | **[Global Air Travel Management](https://github.com/mariaarabelo/flights)** | Optimizing flights networks, providing users with efficient travel options. | C++ |
+| **[RGB File Processing System](https://github.com/mariaarabelo/RGB)** | Edit images through RGB data. | C++ |
 | **[ImigraPortugal](https://github.com/imigra-portugal)** | Collaborative Q&A website, focusing on user interaction and dynamic content. | Laravel |
 | **[Trouble Ticketing](https://github.com/mariaarabelo/trouble-ticketing)** | Manage and resolve customer support issues efficiently. | PHP |
 | **[Liga Portuguesa Database](https://github.com/mariaarabelo/database)** | Handling Portuguese football league data, utilizing triggers and complex queries. | SQLite |
