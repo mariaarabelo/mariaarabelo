@@ -6,7 +6,6 @@
 🎯 I am very interested in cybersecurity and in low-level programming.  
 📚 I love solving complex problems and exploring new technologies.
 
-
 ## Projects
 
 Here are some of my projects:
@@ -59,15 +58,17 @@ Here are some of my projects:
 ![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat-square&logo=markdown&logoColor=white)
 ![VBA](https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=microsoft&logoColor=white)
 
+## 💼 Resume
+If you'd like to learn more about my experience and skills, you can check out my resume:
+
+[![Resume](https://img.shields.io/badge/My_Resume-Click_Here-pink?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV%20Maria%20Rabelo.pdf)
 
 ## Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-rabelo/)
 [![MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariaesrabelo@gmail.com)
 
-Thanks for visiting my profile! 🚀
-
-[CV](./CV%20Maria%20Rabelo.pdf)
+Thank you for visiting my profile! 🚀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaarabelo&layout=donut-vertical)](https://github.com/mariaarabelo)
 
