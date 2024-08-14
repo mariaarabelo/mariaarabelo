@@ -1,11 +1,16 @@
-## Hi there, I`m Maria 👋
+## Hi there, I`m Maria! 👋
 
 ## About Me
 
 🎓 I’m a 3rd year student of Bachelors at Informatics and Computing Engineering, at the University of Porto.  
+
 🌱 I’m currently learning german.
-🎯 I am very interested in cybersecurity and in low-level programming!
-📚 I love solving assembling puzzles, complex problems and exploring new technologies.
+
+🧋 Fun fact: when I lived in Taiwan, my asian name was 張艾亞 (Zhang aiya).
+
+⛏️ I am very interested in cybersecurity and in low-level programming!
+
+🧩 I love solving assembling puzzles, complex problems and exploring new technologies.
 
 
 ## Projects
