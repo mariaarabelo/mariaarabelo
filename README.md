@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning german.
 
-🧋 Fun fact: when I lived in Taiwan, my asian name was 張艾亞 (Zhang aiya).
+🧋 Curiosity about me: when I lived in Taiwan, my asian name was 張艾亞 (Zhang aiya).
 
 ⛏️ I am very interested in cybersecurity and in low-level programming!
 
@@ -35,8 +35,10 @@ Check out some of my projects:
 | **[Differo](https://github.com/mariaarabelo/differo)** | Strategic board game where players can compete against a computer bot. | Prolog |
 
 ## Skills
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaarabelo&layout=donut-vertical" alt="Top Langs" />
 
 ### Languages
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65" height="65"/>
@@ -65,19 +67,23 @@ Check out some of my projects:
 ![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat-square&logo=markdown&logoColor=white)
 ![VBA](https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=microsoft&logoColor=white)
 
-## 💼 Resume
+
+
+<h2 >💼 Resume </h2>
 If you'd like to learn more about my experience and skills, you can check out my resume:
 
 [![Resume](https://img.shields.io/badge/My_Resume-Click_Here-pink?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV%20Maria%20Rabelo.pdf)
 
-## Contact Me
+
+<h2 >📞 Contact Me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-rabelo/)
 [![MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariaesrabelo@gmail.com)
 
 Thank you for visiting my profile! 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaarabelo&layout=donut-vertical)](https://github.com/mariaarabelo)
+</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariaarabelo/mariaarabelo/output/github-contribution-grid-snake-dark.svg">
