@@ -31,7 +31,7 @@ Check out some of the projects I've worked on:
 | **[Trouble Ticketing](https://github.com/mariaarabelo/trouble-ticketing)** | Manage and resolve customer support issues efficiently. | PHP |
 | **[Liga Portuguesa Database](https://github.com/mariaarabelo/database)** | Handling Portuguese football league data, utilizing triggers and complex queries. | SQLite |
 | **[CashHack](https://github.com/AAugustoBS/cash-hack)** | Personalized cashback using linear regression to predict customer habits and heatmaps to analyze traffic. | Python |
-| **[Cybersecurity AI Classifier](https://github.com/mariaarabelo/cyber-security)** | Implemented various machine learning classifiers to distinguish DoH traffic. | Python |
+| **[Cybersecurity AI Classifier](https://github.com/mariaarabelo/cyber-security)** | Diverse supervised ML methods to identify benign or malicious DoH traffic. | Python |
 | **[Zero Point One Game](https://github.com/mariaarabelo/zero-point-one)** | Compete against an AI using the Minimax algorithm. | Python |
 | **[Differo](https://github.com/mariaarabelo/differo)** | Strategic board game where players can compete against a computer bot. | Prolog |
 
