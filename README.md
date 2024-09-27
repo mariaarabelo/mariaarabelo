@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning german.
 
-🧋 Curiosity about me: when I lived in Taiwan, my asian name was 張艾亞 (Zhang aiya).
+🧋 Curiosity about me: when I lived in Taiwan, I received an asian name: 張艾亞 (Zhang aiya).
 
 ⛏️ I am very interested in cybersecurity and in low-level programming!
 
