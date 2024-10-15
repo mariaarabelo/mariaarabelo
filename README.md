@@ -27,7 +27,7 @@ Check out some of the projects I've worked on:
 | **[Schedule Management](https://github.com/mariaarabelo/AED-project)** | Optimizing class schedules to avoid conflicts and overcrowding. | C++ |
 | **[Global Air Travel Management](https://github.com/mariaarabelo/flights)** | Optimizing flights networks, providing users with efficient travel options. | C++ |
 | **[RGB File Processing System](https://github.com/mariaarabelo/RGB)** | Edit images through RGB data. | C++ |
-| **[ImigraPortugal](https://github.com/imigra-portugal)** | Collaborative Q&A website, focusing on user interaction and dynamic content. | Laravel |
+| **[ImigraPortugal](https://github.com/mariaarabelo/imigra-portugal)** | Collaborative Q&A website, focusing on user interaction and dynamic content. | Laravel |
 | **[Trouble Ticketing](https://github.com/mariaarabelo/trouble-ticketing)** | Manage and resolve customer support issues efficiently. | PHP |
 | **[Liga Portuguesa Database](https://github.com/mariaarabelo/database)** | Handling Portuguese football league data, utilizing triggers and complex queries. | SQLite |
 | **[CashHack](https://github.com/AAugustoBS/cash-hack)** | Personalized cashback using linear regression to predict customer habits and heatmaps to analyze traffic. | Python |
