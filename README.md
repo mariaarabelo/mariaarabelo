@@ -8,7 +8,7 @@
 
 🧋 Curiosity about me: when I lived in Taiwan, I received an asian name: 張艾亞 (Zhang aiya).
 
-⛏️ I am very interested in cybersecurity and in low-level programming!
+⛏️ I am very interested in algorithms, in infrastructure and in low-level programming!
 
 🧩 I love solving assembling puzzles, complex problems and exploring new technologies.
 
