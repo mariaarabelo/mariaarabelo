@@ -19,9 +19,11 @@ Check out some of the projects I've worked on:
 
 | Project Name | Description | Development |
 |--------------|-------------|-------------|
+| **[RAPTOR](https://github.com/mariaarabelo/FTP)** | Round-Based Public Transit Routing Algorithm implementation for journey planning. | C++ |
 | **[Java-- Compiler](https://github.com/mariaarabelo/javamm-compiler)** | A compiler from Java-- to OLLIR and then JASMIN. | Java |
 | **[Typing Tutor](https://github.com/mariaarabelo/typing-tutor)** | A dynamic game, integrating peripherals such as the mouse, graphics card, keyboard, and timer. | C |
 | **[Stop-and-Wait](https://github.com/mariaarabelo/Stop-Wait)** | Protocol implementation for computer networks reliable data transmission. | C |
+| **[FTP](https://github.com/mariaarabelo/FTP)** | File Transfer Protocol implementation for file downloading. | C |
 | **[Virtual Garden](https://github.com/mariaarabelo/computer-graphics)** | A dynamic virtual garden with various graphical elements, allowing users to explore the environment. | WebGL, JavaScript |
 | **[Salesperson Problem](https://github.com/salesperson)** | Ant Colony Optimization, approximations and heuristics implementations. | C++ |
 | **[Water Supply Management](https://github.com/watersupply)** | Graph algorithms, focusing on flow analysis and identifying critical points. | C++ |
