@@ -2,7 +2,7 @@
 
 ## About Me
 
-🎓 I’m a finalist student of Bachelors at Informatics and Computing Engineering, at the University of Porto.  
+🎓 I’m a finalist student of Informatics and Computing Engineering, at the University of Porto.  
 
 🌱 I’m currently learning german.
 
