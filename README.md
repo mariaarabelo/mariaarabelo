@@ -26,8 +26,8 @@ Check out some of the projects I've worked on:
 | **[FTP](https://github.com/mariaarabelo/FTP)** | File Transfer Protocol implementation for file downloading. | C |
 | **[Typing Tutor](https://github.com/mariaarabelo/typing-tutor)** | A dynamic game, integrating peripherals such as the mouse, graphics card, keyboard, and timer. | C |
 | **[Virtual Garden](https://github.com/mariaarabelo/computer-graphics)** | A dynamic virtual garden with various graphical elements, allowing users to explore the environment. | WebGL, JavaScript |
-| **[Salesperson Problem](https://github.com/salesperson)** | Ant Colony Optimization, approximations and heuristics implementations. | C++ |
-| **[Water Supply Management](https://github.com/watersupply)** | Graph algorithms, focusing on flow analysis and identifying critical points. | C++ |
+| **[Salesperson Problem](https://github.com/mariaarabelo/salesperson)** | Ant Colony Optimization, approximations and heuristics implementations. | C++ |
+| **[Water Supply Management](https://github.com/mariaarabelo/watersupply)** | Graph algorithms, focusing on flow analysis and identifying critical points. | C++ |
 | **[Schedule Management](https://github.com/mariaarabelo/AED-project)** | Optimizing class schedules to avoid conflicts and overcrowding. | C++ |
 | **[Global Air Travel Management](https://github.com/mariaarabelo/flights)** | Optimizing flights networks, providing users with efficient travel options. | C++ |
 | **[RGB File Processing System](https://github.com/mariaarabelo/RGB)** | Edit images through RGB data. | C++ |
