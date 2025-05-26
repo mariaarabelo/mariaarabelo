@@ -2,7 +2,7 @@
 
 ## About Me
 
-🎓 I’m a finalist student of Bachelors at Informatics and Computing Engineering, at the University of Porto.  
+🎓 I’m a finalist student of Informatics and Computing Engineering, at the University of Porto.  
 
 🌱 I’m currently learning german.
 
@@ -21,19 +21,20 @@ Check out some of the projects I've worked on:
 |--------------|-------------|-------------|
 | **[RAPTOR](https://github.com/mariaarabelo/raptor)** | Round-Based Public Transit Routing Algorithm implementation for journey planning. | C++ |
 | **[Java-- Compiler](https://github.com/mariaarabelo/javamm-compiler)** | A compiler from Java-- to OLLIR and then JASMIN. | Java |
-| **[Typing Tutor](https://github.com/mariaarabelo/typing-tutor)** | A dynamic game, integrating peripherals such as the mouse, graphics card, keyboard, and timer. | C |
+| **[Matrix multiplication](https://github.com/mariaarabelo/parallel)** | Multi-core parallel implementations of matrix multiplication algorithms.  | C++, Java |
 | **[Stop-and-Wait](https://github.com/mariaarabelo/Stop-Wait)** | Protocol implementation for computer networks reliable data transmission. | C |
 | **[FTP](https://github.com/mariaarabelo/FTP)** | File Transfer Protocol implementation for file downloading. | C |
+| **[Typing Tutor](https://github.com/mariaarabelo/typing-tutor)** | A dynamic game, integrating peripherals such as the mouse, graphics card, keyboard, and timer. | C |
 | **[Virtual Garden](https://github.com/mariaarabelo/computer-graphics)** | A dynamic virtual garden with various graphical elements, allowing users to explore the environment. | WebGL, JavaScript |
-| **[Salesperson Problem](https://github.com/salesperson)** | Ant Colony Optimization, approximations and heuristics implementations. | C++ |
-| **[Water Supply Management](https://github.com/watersupply)** | Graph algorithms, focusing on flow analysis and identifying critical points. | C++ |
+| **[Salesperson Problem](https://github.com/mariaarabelo/salesperson)** | Ant Colony Optimization, approximations and heuristics implementations. | C++ |
+| **[Water Supply Management](https://github.com/mariaarabelo/watersupply)** | Graph algorithms, focusing on flow analysis and identifying critical points. | C++ |
 | **[Schedule Management](https://github.com/mariaarabelo/AED-project)** | Optimizing class schedules to avoid conflicts and overcrowding. | C++ |
 | **[Global Air Travel Management](https://github.com/mariaarabelo/flights)** | Optimizing flights networks, providing users with efficient travel options. | C++ |
 | **[RGB File Processing System](https://github.com/mariaarabelo/RGB)** | Edit images through RGB data. | C++ |
 | **[ImigraPortugal](https://github.com/mariaarabelo/imigra-portugal)** | Collaborative Q&A website, focusing on user interaction and dynamic content. | Laravel |
 | **[Trouble Ticketing](https://github.com/mariaarabelo/trouble-ticketing)** | Manage and resolve customer support issues efficiently. | PHP |
 | **[Liga Portuguesa Database](https://github.com/mariaarabelo/database)** | Handling Portuguese football league data, utilizing triggers and complex queries. | SQLite |
-| **[Portuguese Recipe Chatbot](https://github.com/mariaarabelo/chatbot)** | RAG architecture chatbot, providing persosonalized recommendations to students. | Pyyhon |
+| **[Portuguese Recipe Chatbot](https://github.com/mariaarabelo/chatbot)** | RAG architecture chatbot, providing persosonalized recommendations to students. | Python |
 | **[CashHack](https://github.com/AAugustoBS/cash-hack)** | Personalized cashback using linear regression to predict customer habits and heatmaps to analyze traffic. | Python |
 | **[Cybersecurity AI Classifier](https://github.com/mariaarabelo/cyber-security)** | Diverse supervised ML methods to identify benign or malicious DoH traffic. | Python |
 | **[Zero Point One Game](https://github.com/mariaarabelo/zero-point-one)** | Compete against an AI using the Minimax algorithm. | Python |
