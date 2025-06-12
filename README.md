@@ -20,6 +20,7 @@ Check out some of the projects I've worked on:
 | Project Name | Description | Development |
 |--------------|-------------|-------------|
 | **[RAPTOR](https://github.com/mariaarabelo/raptor)** | Round-Based Public Transit Routing Algorithm implementation for journey planning. | C++ |
+| **[Chat Server](https://github.com/mariaarabelo/chat-server)** | Distributed computing server-client application developed for multiple rooms, with AI agent interaction. | Java |
 | **[Java-- Compiler](https://github.com/mariaarabelo/javamm-compiler)** | A compiler from Java-- to OLLIR and then JASMIN. | Java |
 | **[Matrix multiplication](https://github.com/mariaarabelo/parallel)** | Multi-core parallel implementations of matrix multiplication algorithms.  | C++, Java |
 | **[Stop-and-Wait](https://github.com/mariaarabelo/Stop-Wait)** | Protocol implementation for computer networks reliable data transmission. | C |
