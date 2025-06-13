@@ -6,11 +6,11 @@
 
 🌱 I’m currently learning german.
 
-🧋 Curiosity about me: when I lived in Taiwan, I received an asian name: 張艾亞 (Zhang aiya).
+🧋 Curiosity about me: when I lived in Taiwan, I received a chinese name: 張艾亞 (Zhang aiya).
 
-⛏️ I am very interested in algorithms, in infrastructure and in low-level programming!
+⛏️ I am very interested in algorithms, in infrastructure and in low-level programming.
 
-🧩 I love solving assembling puzzles, complex problems and exploring new technologies.
+🧩 I love solving puzzles, complex problems and exploring new technologies.
 
 
 ## Projects
