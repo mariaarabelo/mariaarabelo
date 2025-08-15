@@ -1,16 +1,20 @@
-## Hi there, I`m Maria! 👋
+## Hi there, I`m Maria! 👋 
+Welcome to my profile!
 
 ## About Me
 
-🎓 I’m a finalist student of Informatics and Computing Engineering, at the University of Porto.  
+
+🎓 I hold a bachelor's degree in Informatics and Computing Engineering.
+
+🤖 Now pursuing a Master’s in Artificial Intelligence, at the University of Porto.
+
+### Curiosities 
+
+🧋 When I lived in Taiwan, I received a chinese name: 張艾亞 (Zhang aiya).
 
 🌱 I’m currently learning german.
 
-🧋 Curiosity about me: when I lived in Taiwan, I received a chinese name: 張艾亞 (Zhang aiya).
-
-⛏️ I am very interested in algorithms, in infrastructure and in low-level programming.
-
-🧩 I love solving puzzles, complex problems and exploring new technologies.
+🧩 I love puzzles, rubik cubes and classic books :)
 
 
 ## Projects
