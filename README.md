@@ -6,7 +6,7 @@ Welcome to my profile!
 
 🎓 I hold a bachelor's degree in Informatics and Computing Engineering.
 
-🤖 Now pursuing a Master’s in Artificial Intelligence, at the University of Porto.
+🔐 Now working as a Identity and Access Managament Engineer Trainee at MC Digital.
 
 ### Curiosities 
 
