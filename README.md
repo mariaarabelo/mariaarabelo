@@ -3,10 +3,9 @@ Welcome to my profile!
 
 ## About Me
 
+🔐 Part of the Identity and Access Managament team at MC Digital.
 
-🎓 I hold a bachelor's degree in Informatics and Computing Engineering.
-
-🔐 Now working as a Identity and Access Managament Engineer Trainee at MC Digital.
+🎓 I hold a bachelor's degree in Informatics and Computing Engineering by the University of Porto.
 
 ### Curiosities 
 
