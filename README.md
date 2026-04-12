@@ -84,7 +84,7 @@ Check out some of the projects I've worked on:
 <h2 >💼 Resume </h2>
 If you'd like to learn more about my experience and skills, you can check out my resume:
 
-[![Resume](https://img.shields.io/badge/My_Resume-Click_Here-pink?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV%20Maria%20Rabelo.pdf)
+[![Resume](https://img.shields.io/badge/My_Resume-Click_Here-pink?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Maria%20Rabelo%20Resume.pdf)
 
 
 <h2 >📞 Contact Me</h2>
